@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to sad and lucid
 
 You can use the [editor on GitHub](https://github.com/ldery/sad-and-lucid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
